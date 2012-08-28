@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "0.0.1-2",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.8",
+    "ejs": ">= 0.0.1",
+    "http-status": "0.1.1"
+  },
+  "subdomain": "buhuru.httpstatus",
+  "scripts": {
+    "start": "server.js"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
