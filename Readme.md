@@ -5,15 +5,15 @@
 
 To verify experimentally, how does javascript frameworks handle http status codes in responses.
 
-## Structure
-* / -- nothing there
-* /jquery -- contains tests grouped in console output
-* /100 .. /505 -- approptiate http status codes
+## Routes structure
+* '/' -- nothing there
+* '/jquery' -- contains tests grouped in console output
+* '/100 .. /505' -- approptiate http status codes
  
 ##Installation
 
-	git clone 
-	cd 
+	git clone https://github.com/buhuru/http-statuses-handling.git
+	cd http-statuses-handling
 	npm install
 	node server.js
 
